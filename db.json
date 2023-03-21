@@ -1,25 +1,22 @@
 {
     "users": [
       {
-        "name": "Raghuveer Sain",
+        "username": "Raghuveer Sain",
         "email": "aksheevs@gmail.com",
         "password": "12345",
-        "repeatPassword": "12345",
         "id": 1
       },
       {
-        "name": "Raghuveer",
+        "username": "Raghuveer",
         "email": "raghu@gmail.com",
         "password": "12345",
-        "repeatPassword": "12345",
-        "id": 1
+        "id": 2
       },
       {
-        "name": "RAGHU",
+        "username": "RAGHU",
         "email": "raghu123@gmail.com",
         "password": "1234567",
-        "repeatPassword": "1234567",
-        "id": 1
+        "id": 3
       }
     ],
     "recipes": [

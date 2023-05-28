@@ -1,21 +1,21 @@
 {
     "users": [
       {
-        "username": "Raghuveer Sain",
-        "email": "aksheevs@gmail.com",
+        "name": "Raghuveer Sain",
+        "mobile": "8440874898",
         "password": "12345",
         "id": 1
       },
       {
-        "username": "Raghuveer",
-        "email": "raghu@gmail.com",
+        "name": "Raghuveer",
+        "mobile": "8440874897",
         "password": "12345",
         "id": 2
       },
       {
-        "username": "RAGHU",
-        "email": "raghu123@gmail.com",
-        "password": "1234567",
+        "name": "Kapil Sain",
+        "mobile": "9001167008",
+        "password": "12345",
         "id": 3
       }
     ],
